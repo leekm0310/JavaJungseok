@@ -6,7 +6,7 @@ public class Ex5_tmp {
         int[][] arr2D = {{11,12},{21,22}}; //2차원 배열
 
         System.out.println(Arrays.toString(arr));
-       
+
         Arrays.sort(arr); //오름차순으로 배열 정렬
 
         System.out.println(Arrays.toString(arr));
